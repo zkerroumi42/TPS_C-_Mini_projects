@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1683700656 source:c:\users\n-speaker\desktop\programation c++\compte redu\testt\carre.cpp
+	"carre.h"
+
+1683700655 c:\users\n-speaker\desktop\programation c++\compte redu\testt\carre.h
+	"figure.h"
+
+1683674925 c:\users\n-speaker\desktop\programation c++\compte redu\testt\figure.h
+	<iostream>
+
+1683674584 source:c:\users\n-speaker\desktop\programation c++\compte redu\testt\figure.cpp
+
+1683706067 source:c:\users\n-speaker\desktop\programation c++\compte redu\testt\main.cpp
+	"carre.h"
+	"figure.h"
+	"cercle.h"
+	"triangle.h"
+	"dessin.h"
+
+1683700717 source:c:\users\n-speaker\desktop\programation c++\compte redu\testt\cercle.cpp
+	"cercle.h"
+	"math.h"
+
+1683700315 c:\users\n-speaker\desktop\programation c++\compte redu\testt\cercle.h
+	"figure.h"
+
+1683701801 source:c:\users\n-speaker\desktop\programation c++\compte redu\testt\triangle.cpp
+	"triangle.h"
+	<iostream>
+
+1683701757 c:\users\n-speaker\desktop\programation c++\compte redu\testt\triangle.h
+	"figure.h"
+
+1683704932 source:c:\users\n-speaker\desktop\programation c++\compte redu\testt\dessin.cpp
+	"dessin.h"
+
+1683704809 c:\users\n-speaker\desktop\programation c++\compte redu\testt\dessin.h
+	<vector>
+	"figure.h"
+	<iostream>
+
+1683803843 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp_4_rendu\tp4_figure_vector\carre.cpp
+	"carre.h"
+
+1683803843 c:\users\n-speaker\desktop\programation c++\compte redu\tp_4_rendu\tp4_figure_vector\carre.h
+	"figure.h"
+
+1683674925 c:\users\n-speaker\desktop\programation c++\compte redu\tp_4_rendu\tp4_figure_vector\figure.h
+	<iostream>
+
+1683700717 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp_4_rendu\tp4_figure_vector\cercle.cpp
+	"cercle.h"
+	"math.h"
+
+1683700315 c:\users\n-speaker\desktop\programation c++\compte redu\tp_4_rendu\tp4_figure_vector\cercle.h
+	"figure.h"
+
+1683807887 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp_4_rendu\tp4_figure_vector\dessin.cpp
+	"dessin.h"
+
+1684396764 c:\users\n-speaker\desktop\programation c++\compte redu\tp_4_rendu\tp4_figure_vector\dessin.h
+	<vector>
+	"figure.h"
+	<iostream>
+
+1683799876 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp_4_rendu\tp4_figure_vector\triangle.cpp
+	"triangle.h"
+	<iostream>
+
+1683800538 c:\users\n-speaker\desktop\programation c++\compte redu\tp_4_rendu\tp4_figure_vector\triangle.h
+	"figure.h"
+
+1683804481 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp_4_rendu\tp4_figure_vector\main.cpp
+	"carre.h"
+	"figure.h"
+	"cercle.h"
+	"triangle.h"
+	"dessin.h"
+

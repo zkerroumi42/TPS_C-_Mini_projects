@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1683656335 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp4_figure\carre.cpp
+	"carre.h"
+	<iostream>
+
+1683656286 c:\users\n-speaker\desktop\programation c++\compte redu\tp4_figure\carre.h
+	"figure.h"
+
+1683647872 c:\users\n-speaker\desktop\programation c++\compte redu\tp4_figure\figure.h
+
+1683656513 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp4_figure\cercle.cpp
+	"cercle.h"
+	<math.h>
+	<iostream>
+
+1683656513 c:\users\n-speaker\desktop\programation c++\compte redu\tp4_figure\cercle.h
+	"figure.h"
+
+1683636511 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp4_figure\figure.cpp
+	"figure.h"
+
+1446671344 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp4_figure\main.cpp
+	<iostream>
+
+1683656512 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp4_figure\triangle.cpp
+	"triangle.h"
+	<iostream>
+
+1683656513 c:\users\n-speaker\desktop\programation c++\compte redu\tp4_figure\triangle.h
+	"figure.h"
+

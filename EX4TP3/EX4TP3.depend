@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1685204839 source:c:\users\n-speaker\desktop\programation c++\compte redu\ex4tp3\destributeur.cpp
+	"destributeur.h"
+
+1685206200 c:\users\n-speaker\desktop\programation c++\compte redu\ex4tp3\destributeur.h
+	<iostream>
+
+1685205774 source:c:\users\n-speaker\desktop\programation c++\compte redu\ex4tp3\main.cpp
+	<iostream>
+	"destributeur.h"
+
+1685206043 source:c:\users\n-speaker\desktop\programation c++\compte redu\ex4tp3\destributeurmulti.cpp
+	"destributeurmulti.h"
+
+1685206043 c:\users\n-speaker\desktop\programation c++\compte redu\ex4tp3\destributeurmulti.h
+	"destributeur.h"
+

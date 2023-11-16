@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1683635015 source:c:\users\n-speaker\desktop\programation c++\compte redu\new_tp4\cercle.cpp
+	"cercle.h"
+	<iostream>
+
+1683634465 c:\users\n-speaker\desktop\programation c++\compte redu\new_tp4\cercle.h
+	"forme.h"
+
+1683634465 c:\users\n-speaker\desktop\programation c++\compte redu\new_tp4\forme.h
+
+1683634465 source:c:\users\n-speaker\desktop\programation c++\compte redu\new_tp4\forme.cpp
+	"forme.h"
+	<iostream>
+
+1683635141 source:c:\users\n-speaker\desktop\programation c++\compte redu\new_tp4\main.cpp
+	"forme.h"
+	"cercle.h"
+	"triangle.h"
+	<iostream>
+
+1683635624 source:c:\users\n-speaker\desktop\programation c++\compte redu\new_tp4\triangle.cpp
+	"triangle.h"
+	<iostream>
+
+1683634767 c:\users\n-speaker\desktop\programation c++\compte redu\new_tp4\triangle.h
+	"forme.h"
+

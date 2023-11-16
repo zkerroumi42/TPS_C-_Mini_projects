@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1685189682 source:c:\users\n-speaker\desktop\programation c++\compte redu\revision\main.cpp
+	<iostream>
+	"vehicule.h"
+	"voiture.h"
+
+1685184577 c:\users\n-speaker\desktop\programation c++\compte redu\revision\vehicule.h
+
+1685186492 source:c:\users\n-speaker\desktop\programation c++\compte redu\revision\vehicule.cpp
+	"vehicule.h"
+	<Cstring>
+	<stdio.h>
+	"string.h"
+	<iostream>
+
+1685188479 c:\users\n-speaker\desktop\programation c++\compte redu\revision\voiture.h
+	"Vehicule.h"
+
+1685187863 source:c:\users\n-speaker\desktop\programation c++\compte redu\revision\voiture.cpp
+	"voiture.h"
+	<iostream>
+

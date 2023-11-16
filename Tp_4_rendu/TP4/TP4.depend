@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1683631041 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp4\forme.cpp
+	"forme.h"
+	<iostream>
+
+1683631121 c:\users\n-speaker\desktop\programation c++\compte redu\tp4\forme.h
+
+1683622653 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp4\cercle.cpp
+	"cercle.h"
+	<iostream>
+
+1683622653 c:\users\n-speaker\desktop\programation c++\compte redu\tp4\cercle.h
+	"forme.h"
+
+1683622753 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp4\main.cpp
+	"forme.h"
+	"cercle.h"
+	<iostream>
+
+1683802303 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp_4_rendu\tp4\cercle.cpp
+	"cercle.h"
+	<iostream>
+
+1683802376 c:\users\n-speaker\desktop\programation c++\compte redu\tp_4_rendu\tp4\cercle.h
+	"forme.h"
+
+1683801596 c:\users\n-speaker\desktop\programation c++\compte redu\tp_4_rendu\tp4\forme.h
+
+1683801814 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp_4_rendu\tp4\forme.cpp
+	"forme.h"
+	<iostream>
+
+1683802473 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp_4_rendu\tp4\main.cpp
+	"forme.h"
+	"cercle.h"
+	<iostream>
+

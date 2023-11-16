@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1685201283 source:c:\users\n-speaker\desktop\programation c++\compte redu\exercice2tp3\contact.cpp
+	"contact.h"
+	<Cstring>
+
+1685201188 c:\users\n-speaker\desktop\programation c++\compte redu\exercice2tp3\contact.h
+	<iostream>
+	<cstring>
+
+1685202781 source:c:\users\n-speaker\desktop\programation c++\compte redu\exercice2tp3\main.cpp
+	<iostream>
+	"contact.h"
+	"contactsal.h"
+
+1685202751 source:c:\users\n-speaker\desktop\programation c++\compte redu\exercice2tp3\contactsal.cpp
+	"contactsal.h"
+
+1685202205 c:\users\n-speaker\desktop\programation c++\compte redu\exercice2tp3\contactsal.h
+	"contact.h"
+

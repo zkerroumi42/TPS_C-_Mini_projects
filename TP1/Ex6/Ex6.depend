@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1680743396 source:c:\users\n-speaker\desktop\programation c++\ex6\main.cpp
+	"point3D.h"
+	<cmath>
+
+1680743396 c:\users\n-speaker\desktop\programation c++\ex6\point3d.h
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1685843786 source:c:\users\n-speaker\desktop\programation c++\compte redu\myproject\automat.cpp
+	"automat.h"
+	<string>
+	<iostream>
+
+1685841351 c:\users\n-speaker\desktop\programation c++\compte redu\myproject\automat.h
+	<vector>
+	<string>
+	"Slot.h"
+	"CoinSlot.h"
+	"DropCheck.h"
+	"Keypad.h"
+	"SmallSlot.h"
+	"WideSlot.h"
+
+1685833328 c:\users\n-speaker\desktop\programation c++\compte redu\myproject\slot.h
+	<string>
+	"motor.h"
+
+1684840989 c:\users\n-speaker\desktop\programation c++\compte redu\myproject\motor.h
+
+1685838101 c:\users\n-speaker\desktop\programation c++\compte redu\myproject\coinslot.h
+
+1685838120 c:\users\n-speaker\desktop\programation c++\compte redu\myproject\dropcheck.h
+	<ctime>
+	<cstdlib>
+
+1685838131 c:\users\n-speaker\desktop\programation c++\compte redu\myproject\keypad.h
+
+1685844185 source:c:\users\n-speaker\desktop\programation c++\compte redu\myproject\coinslot.cpp
+	"CoinSlot.h"
+	<iostream>
+
+1685840663 source:c:\users\n-speaker\desktop\programation c++\compte redu\myproject\dropcheck.cpp
+	"DropCheck.h"
+
+1685844185 source:c:\users\n-speaker\desktop\programation c++\compte redu\myproject\keypad.cpp
+	"Keypad.h"
+	<iostream>
+
+1685844235 source:c:\users\n-speaker\desktop\programation c++\compte redu\myproject\main.cpp
+	<iostream>
+	"automat.h"
+
+1685816785 source:c:\users\n-speaker\desktop\programation c++\compte redu\myproject\motor.cpp
+	"motor.h"
+	<iostream>
+
+1685843334 source:c:\users\n-speaker\desktop\programation c++\compte redu\myproject\slot.cpp
+	"slot.h"
+	<string>
+	<iostream>
+
+1685834020 source:c:\users\n-speaker\desktop\programation c++\compte redu\myproject\smallslot.cpp
+	"SmallSlot.h"
+
+1685838140 c:\users\n-speaker\desktop\programation c++\compte redu\myproject\smallslot.h
+	"Slot.h"
+
+1685834630 source:c:\users\n-speaker\desktop\programation c++\compte redu\myproject\wideslot.cpp
+	"WideSlot.h"
+
+1685838146 c:\users\n-speaker\desktop\programation c++\compte redu\myproject\wideslot.h
+	"Slot.h"
+

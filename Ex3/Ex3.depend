@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1681300386 source:c:\users\n-speaker\desktop\programation c++\compte redu\ex3\main.cpp
+	<iostream>
+	"Chaine.h"
+
+1681300557 c:\users\n-speaker\desktop\programation c++\compte redu\ex3\chaine.h
+	<iostream>
+	<cstring>
+
+1681303986 source:c:\users\n-speaker\desktop\programation c++\compte redu_1\ex3\main.cpp
+	<iostream>
+	"Chaine.h"
+
+1681304157 c:\users\n-speaker\desktop\programation c++\compte redu_1\ex3\chaine.h
+	<iostream>
+	<cstring>
+

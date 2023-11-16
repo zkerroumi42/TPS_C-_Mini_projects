@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1684261930 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp5\livre.cpp
+	"livre.h"
+	<iostream>
+	<string>
+
+1684263666 c:\users\n-speaker\desktop\programation c++\compte redu\tp5\livre.h
+	<string>
+	<iostream>
+
+1684264403 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp5\main.cpp
+	<iostream>
+	<string>
+	"livre.h"
+	"roman.h"
+	"beaulivre.h"
+	"policier.h"
+	"librairie.h"
+
+1684263666 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp5\beaulivre.cpp
+	"beaulivre.h"
+
+1684263666 c:\users\n-speaker\desktop\programation c++\compte redu\tp5\beaulivre.h
+	"livre.h"
+
+1684240735 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp5\policier.cpp
+	"policier.h"
+
+1684235804 c:\users\n-speaker\desktop\programation c++\compte redu\tp5\policier.h
+	"roman.h"
+
+1684235296 c:\users\n-speaker\desktop\programation c++\compte redu\tp5\roman.h
+	"livre.h"
+	<iostream>
+	<string>
+
+1684235972 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp5\roman.cpp
+	"roman.h"
+	<iostream>
+	<string>
+
+1684263416 source:c:\users\n-speaker\desktop\programation c++\compte redu\tp5\librairie.cpp
+	"librairie.h"
+
+1684262709 c:\users\n-speaker\desktop\programation c++\compte redu\tp5\librairie.h
+	<vector>
+	"livre.h"
+
